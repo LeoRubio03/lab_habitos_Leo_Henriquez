@@ -38,5 +38,5 @@ Para evitar este problema, apliqué buenas prácticas al calcular la informació
 ## Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/JuanJ22/lab_habitos_juan_perez.git](https://github.com/JuanJ22/lab_habitos_juan_perez.git)
+```bash
+   git clone [https://github.com/LeoRubio03/lab_habitos_Leo_Henriquez.git](https://github.com/LeoRubio03/lab_habitos_Leo_Henriquez.git)
